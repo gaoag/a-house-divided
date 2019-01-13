@@ -3,7 +3,7 @@
 This is an attempt to understand how senators vote with/against party lines, identify what issues and bills tend to be the most polarizing, and explore applications of SVD/PCA, projections, and more. I don't know why our nation and our legislatures are so divided. I'm not sure where data science fits in amidst this complex political, social, and economic landscape. But I want to understand it somehow, and that starts with experimentation - even if it may not lead anywhere!
 
 ## What's in the repo:
-1. An iPython notebook describing the data acquisition and preprocessing steps
+1. An iPython notebook describing the data acquisition, preprocessing, and cleaning.
 2. Preprocessed data for analysis
 3. Another iPython notebook containing the analysis itself
 4. This readme, for a high-level summary of the project
