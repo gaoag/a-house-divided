@@ -11,7 +11,7 @@ This is an attempt to understand how senators vote with/against party lines, ide
 
 ## Political Quotes
 
-"A house divided cannot take meaningful action on immigration reform. Or healthcare policy. Campaign finance too? Anything really. I guess what I'm saying is that it can't stand?" - Abraham Lincoln, probably 
-"I am the Senate!" - ~~Chancellor Palpatine~~ Mitch McConnell, probably
-"p̶̻̤̲͝ḻ̶̠͊̈́̿e̴͕͚̺͘ä̷͖̻̦̆͘s̵̡̭̱̉̈́̀ě̶̻̪͘  s̸͓̜̀͛t̶̬̝͋͌̈́o̴̝̬̕p̸̻̰̫̈́̂͝  ċ̵̰̮̤̆o̷͙͊n̶̹̆f̶͕̠͖͂ų̸̢͈̄ś̴̻̃i̶̳̕n̶̻̐̉͆g̵͖͔̓  m̵̢͉̎é̵̯̮̟͋̐  f̸̧̘͇̾o̷̙̹͛͂r̴̘̯̄͒  te̴̢̖̊d  c̶̢̞͉̽̈́r̵̼̣͎̒̇ú̴̲͍̫̅z̵̨̊̾̾" - The Zodiac Killer in an unsolved cipher from 1971
+* "A house divided cannot take meaningful action on immigration reform. Or healthcare policy. Campaign finance too? Anything really. I guess what I'm saying is that it can't stand?" - Abraham Lincoln, probably 
+* "I am the Senate!" - ~~Chancellor Palpatine~~ Mitch McConnell, probably
+* "p̶̻̤̲͝ḻ̶̠͊̈́̿e̴͕͚̺͘ä̷͖̻̦̆͘s̵̡̭̱̉̈́̀ě̶̻̪͘  s̸͓̜̀͛t̶̬̝͋͌̈́o̴̝̬̕p̸̻̰̫̈́̂͝  ċ̵̰̮̤̆o̷͙͊n̶̹̆f̶͕̠͖͂ų̸̢͈̄ś̴̻̃i̶̳̕n̶̻̐̉͆g̵͖͔̓  m̵̢͉̎é̵̯̮̟͋̐  f̸̧̘͇̾o̷̙̹͛͂r̴̘̯̄͒  te̴̢̖̊d  c̶̢̞͉̽̈́r̵̼̣͎̒̇ú̴̲͍̫̅z̵̨̊̾̾" - The Zodiac Killer in an unsolved cipher from 2017
 
